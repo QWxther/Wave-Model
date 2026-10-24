@@ -1,6 +1,11 @@
 # Wave-Model
 This is a personal project of mine created with the intent of simulating a wave based on real-world physics using the Python coding language.
 
+### DCWM_v1.3 (Discrete Curvature Wave Model) - 24 Oct 2026
+- Implementation of wave damping.
+- Added Quick Plot showing wave damping with time.
+- Changed the name cause it was bad.
+
 ### DFWM_v1.2 (Defined by a Function Wave Model) - 23 Oct 2026
 - Implementation of discrete curvature for acceleration calculations.
 - Added "Weight Mode" and "Sphere of Influence" variables for force calculations.
